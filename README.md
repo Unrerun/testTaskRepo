@@ -49,7 +49,7 @@ _____________
 - [SteamSQRT.java](src/main/java/org/example/task7/SteamSQRT.java)
 
 ## Задача 8: Stream API - группировка по атрибуту
-- [StreamGroupByAttribute.java](src/main/java/org/example/task8/StreamGroupByAttribute.java) - [GitHub](https://github.com/Unrerun/testTaskRepo/tree/main/src/main/java/org/example/task8/StreamGroupByAttribute.java)
+- [StreamGroupByAttribute.java](src/main/java/org/example/task8/StreamGroupByAttribute.java)
 
 ## Задача 9: Потокобезопасный счетчик
-- [ConcurrentCounter.java](src/main/java/org/example/task9/ConcurrentCounter.java) - [GitHub](https://github.com/Unrerun/testTaskRepo/tree/main/src/main/java/org/example/task9/ConcurrentCounter.java)
+- [ConcurrentCounter.java](src/main/java/org/example/task9/ConcurrentCounter.java)
