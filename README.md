@@ -11,7 +11,7 @@ _____________
 # Навигация по задачам
 
 ## Задачи джуниор (task0Junior)
-- [JuniorTasks.java](src/main/java/org/example/task0Junior/JuniorTasks.java) - [GitHub](https://github.com/Unrerun/testTaskRepo/tree/main/src/main/java/org/example/task0Junior/JuniorTasks.java)
+- [JuniorTasks.java](src/main/java/org/example/task0Junior/JuniorTasks.java)
   - Задача 1: Простой калькулятор (метод task1)
   - Задача 2: Поиск максимального элемента в массиве (метод task2d1)
   - Задача 3: Проверка палиндрома (метод isPalindrome)
