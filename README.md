@@ -25,28 +25,28 @@ _____________
   - Задача 11: FizzBuzz (метод fizzBuzz)
 
 ## Задача 1: Иммьютабельный класс
-- [Student.java](src/main/java/org/example/task1/Student.java) - [GitHub](https://github.com/Unrerun/testTaskRepo/tree/main/src/main/java/org/example/task1/Student.java)
+- [Student.java](src/main/java/org/example/task1/Student.java)
 
 ## Задача 2: Композиция vs Наследование
-- [Car.java](src/main/java/org/example/task2/Car.java) - [GitHub](https://github.com/Unrerun/testTaskRepo/tree/main/src/main/java/org/example/task2/Car.java)
-- [Engine.java](src/main/java/org/example/task2/Engine.java) - [GitHub](https://github.com/Unrerun/testTaskRepo/tree/main/src/main/java/org/example/task2/Engine.java)
+- [Car.java](src/main/java/org/example/task2/Car.java)
+- [Engine.java](src/main/java/org/example/task2/Engine.java)
 
 ## Задача 3: Try-with-resources
-- [CustomResource.java](src/main/java/org/example/task3/CustomResource.java) - [GitHub](https://github.com/Unrerun/testTaskRepo/tree/main/src/main/java/org/example/task3/CustomResource.java)
+- [CustomResource.java](src/main/java/org/example/task3/CustomResource.java)
 
 ## Задача 4: LRU Cache
-- [LRUCache.java](src/main/java/org/example/task4/LRUCache.java) - [GitHub](https://github.com/Unrerun/testTaskRepo/tree/main/src/main/java/org/example/task4/LRUCache.java)
-- [LoaderLRUCache.java](src/main/java/org/example/task4/LoaderLRUCache.java) - [GitHub](https://github.com/Unrerun/testTaskRepo/tree/main/src/main/java/org/example/task4/LoaderLRUCache.java)
+- [LRUCache.java](src/main/java/org/example/task4/LRUCache.java)
+- [LoaderLRUCache.java](src/main/java/org/example/task4/LoaderLRUCache.java)
 
 ## Задача 5: Сравнение объектов
-- [Person.java](src/main/java/org/example/task5/Person.java) - [GitHub](https://github.com/Unrerun/testTaskRepo/tree/main/src/main/java/org/example/task5/Person.java)
-- [SortPersons.java](src/main/java/org/example/task5/SortPersons.java) - [GitHub](https://github.com/Unrerun/testTaskRepo/tree/main/src/main/java/org/example/task5/SortPersons.java)
+- [Person.java](src/main/java/org/example/task5/Person.java)
+- [SortPersons.java](src/main/java/org/example/task5/SortPersons.java)
 
 ## Задача 6: Параметризованный тест для проверки пароля
-- [PasswordChecker.java](src/main/java/org/example/task6AT/PasswordChecker.java) - [GitHub](https://github.com/Unrerun/testTaskRepo/tree/main/src/main/java/org/example/task6AT/PasswordChecker.java)
+- [PasswordChecker.java](src/main/java/org/example/task6AT/PasswordChecker.java)
 
 ## Задача 7: Stream API - квадраты чисел
-- [SteamSQRT.java](src/main/java/org/example/task7/SteamSQRT.java) - [GitHub](https://github.com/Unrerun/testTaskRepo/tree/main/src/main/java/org/example/task7/SteamSQRT.java)
+- [SteamSQRT.java](src/main/java/org/example/task7/SteamSQRT.java)
 
 ## Задача 8: Stream API - группировка по атрибуту
 - [StreamGroupByAttribute.java](src/main/java/org/example/task8/StreamGroupByAttribute.java) - [GitHub](https://github.com/Unrerun/testTaskRepo/tree/main/src/main/java/org/example/task8/StreamGroupByAttribute.java)
